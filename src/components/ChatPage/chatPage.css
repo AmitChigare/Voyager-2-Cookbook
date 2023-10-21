@@ -20,13 +20,11 @@
 
 .sidebar{
     width: 30%;
-    background-color: #0646a2;
+    background-color: #0647a2d1;
     padding: 10px;
     color: white;
     border-radius: 6px;
 }
-
-
 
 .chatSession{
     /* position: fixed; */
